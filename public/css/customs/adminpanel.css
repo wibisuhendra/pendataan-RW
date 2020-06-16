@@ -1,0 +1,101 @@
+body{
+    background: #f1f1f1;
+}
+
+button{
+    top: -3px;
+}
+a{
+    color: inherit;
+}
+a:hover{
+    text-decoration: none;
+    color: #017bb4;
+}
+
+.btn{
+    /* color: black; */
+    text-shadow: none;
+}
+.btn-action{
+    margin-top: -6px;
+    font-weight: 500;
+}
+
+.p-toolbar{
+    padding-top: 32px;
+    box-sizing: border-box;
+}
+
+.p-nav{
+    color: #eee;
+    top: 0;
+    left: 0;
+    z-index: 9;
+    height: 40px;
+    padding: 4px 3px;
+    /* line-height: 32px; */
+    width: 100%;
+    /* min-width: 600px; */
+    font-size: 14px;
+    background: #23282d;
+}
+.p-nav img{
+    margin-top:-3px;
+}
+.p-nav a{
+    margin: 0 8px;
+}
+.p-nav ul{
+    list-style: none;
+}
+
+.p-nav li{
+    margin: 0 10px;
+    float: left;
+}
+
+.content-wrapper{
+    margin-top: 50px;
+    padding: 24px 8px;
+}
+
+.table tbody td{
+    /* color: #017bb4; */
+    color: #23282d;
+}
+tbody a{
+    color: #017bb4;
+}
+tbody a:hover{
+    color: #01b4b4
+}
+
+/* Collapse */
+.collapsible {
+    cursor: pointer;
+}
+
+.collapsible-active, .collapsible:hover {
+    background-color: #e9ecef;
+}
+
+.collapsible:after {
+    content: '\002B';
+    color: rgb(175, 0, 0);
+    font-weight: bold;
+    float: right;
+    margin-left: 5px;
+}
+
+.collapsible-active:after {
+    content: "\2212";
+}
+
+.collapse-content {
+    padding: 0 18px;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+    background-color: #f1f1f1;
+}

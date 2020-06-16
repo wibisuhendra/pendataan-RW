@@ -1,0 +1,78 @@
+[
+    {
+        "id": "bulan",
+        "jenis": "bulan",
+        "periode": [
+            {
+                "id": "bulan_1",
+                "nama": "Januari"
+            },
+            {
+                "id": "bulan_2",
+                "nama": "Februari"
+            },
+            {
+                "id": "bulan_3",
+                "nama": "Maret"
+            },
+            {
+                "id": "bulan_4",
+                "nama": "April"
+            },
+            {
+                "id": "bulan_5",
+                "nama": "Mei"
+            },
+            {
+                "id": "bulan_6",
+                "nama": "Juni"
+            },
+            {
+                "id": "bulan_7",
+                "nama": "Juli"
+            },
+            {
+                "id": "bulan_8",
+                "nama": "Agustus"
+            },
+            {
+                "id": "bulan_9",
+                "nama": "September"
+            },
+            {
+                "id": "bulan_10",
+                "nama": "Oktober"
+            },
+            {
+                "id": "bulan_11",
+                "nama": "November"
+            },
+            {
+                "id": "bulan_12",
+                "nama": "Desember"
+            }
+        ]
+    },
+    {
+        "id": "tri",
+        "jenis": "triwulan",
+        "periode":[
+            {
+                "id": "tri_1",
+                "nama": "Triwulan 1"
+            },
+            {
+                "id": "tri_2",
+                "nama": "Triwulan 2"
+            },
+            {
+                "id": "tri_3",
+                "nama": "Triwulan 3"
+            },
+            {
+                "id": "tri_4",
+                "nama": "Triwulan 4"
+            }
+        ]
+    }
+]
